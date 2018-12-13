@@ -1,0 +1,9 @@
+name: Enchantify
+version: 0.2
+api-version: 1.12
+main: enchantify.Enchantify
+author: captainawesome7
+commands:
+  enchant:
+    Description: Enchants the item you are holding [] optional
+    Usage: /enchant <name> <level> [player]
