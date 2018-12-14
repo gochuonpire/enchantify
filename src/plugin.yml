@@ -6,4 +6,4 @@ author: captainawesome7
 commands:
   enchant:
     Description: Enchants the item you are holding [] optional
-    Usage: /enchant <name> <level> [player]
+    Usage: /enchant [name] [level] [player]
